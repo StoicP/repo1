@@ -1,3 +1,4 @@
 temp
-line5 added
-line6
+feature1line added
+line3
+ANOTHER LINE ADDED
