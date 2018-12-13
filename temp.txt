@@ -1,3 +1,4 @@
 temp
 feature1line added
 line3
+ANOTHER LINE ADDED
